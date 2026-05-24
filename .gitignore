@@ -1,0 +1,53 @@
+# ── Model Weights (ukuran besar, jangan di-push) ──
+*-finetuned/
+*-results/
+checkpoint-*/
+*.bin
+*.safetensors
+*.pt
+*.pth
+
+# ── Dataset Cache ──
+scientific_papers_pubmed/
+datasets_cache/
+~/.cache/huggingface/
+
+# ── Output & Zip ──
+*.zip
+bart_essential/
+textrank_output/
+longt5_output/
+led_output/
+pegasus_output/
+
+# ── Wandb ──
+wandb/
+offline-run-*/
+
+# ── Jupyter ──
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
+
+# ── Logs ──
+logs/
+*.log
+runs/
+
+# ── Environment ──
+.env
+venv/
+env/
+.venv/
+
+# ── OS ──
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Yang DI-PUSH (whitelist) ──
+# notebooks/*.ipynb     
+# results/*.csv         
+# proposal/*.pdf        
+# viz/*.png             
+# README.md             
