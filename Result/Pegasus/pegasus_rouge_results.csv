@@ -1,0 +1,2 @@
+Model,ROUGE-1,ROUGE-2,ROUGE-L,Tipe,Dataset,Test Samples
+PEGASUS (google/pegasus-pubmed),33.54,12.11,20.28,Abstractive Baseline,PubMed,500

@@ -1,0 +1,2 @@
+Model,ROUGE-1,ROUGE-2,ROUGE-L,Tipe,Dataset,Max Input Tokens,Test Samples
+LongT5 (google/long-t5-tglobal-base),31.8,9.62,17.52,Long-Document Baseline,PubMed (ccdv/pubmed-summarization),4096,500

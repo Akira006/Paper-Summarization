@@ -1,0 +1,2 @@
+Model,ROUGE-1,ROUGE-2,ROUGE-L,Tipe,Dataset,Test Samples
+BART (facebook/bart-large-cnn),42.37,16.48,24.15,Abstractive Baseline,PubMed,500
