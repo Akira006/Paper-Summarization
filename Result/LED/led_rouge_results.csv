@@ -1,2 +1,2 @@
 Model,ROUGE-1,ROUGE-2,ROUGE-L,Tipe,Dataset,Max Input Tokens,Test Samples
-LED (allenai/led-base-16384),29.09,10.76,18.4,Long-Document (Model Utama),PubMed (ccdv/pubmed-summarization),8192,500
+LED (allenai/led-base-16384),41.95,16.61,24.42,Long-Document,PubMed (ccdv/pubmed-summarization),8192,500
