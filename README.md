@@ -1,4 +1,4 @@
-# Research Paper Summarization Using Long-Document Transformer Models
+# Research Paper Summarization: A Comparative Study of Five Summarization Models
 
 Eksperimen perbandingan model-model summarization untuk merangkum artikel ilmiah secara otomatis, dengan fokus pada kemampuan model dalam menangani dokumen panjang.
 
