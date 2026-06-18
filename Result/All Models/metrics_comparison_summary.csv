@@ -1,0 +1,6 @@
+Model,ROUGE-1,ROUGE-2,ROUGE-L,Tipe,Dataset,Max Input Tokens,Test Samples
+BART,42.37,16.48,24.15,Abstractive Baseline,PubMed,N/A,500
+LED,41.95,16.61,24.42,Long-Document,PubMed (ccdv/pubmed-summarization),8192,500
+LongT5,31.8,9.62,17.52,Long-Document Baseline,PubMed (ccdv/pubmed-summarization),4096,500
+Pegasus,33.54,12.11,20.28,Abstractive Baseline,PubMed,N/A,500
+Textrank,39.31,14.32,21.06,N/A,N/A,N/A,N/A
